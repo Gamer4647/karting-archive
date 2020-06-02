@@ -1,0 +1,14 @@
+development:
+  file_area:
+  link_area:
+  link_key:
+
+test:
+  file_area:
+  link_area:
+  link_key:
+
+production:
+  file_area:
+  link_area:
+  link_key:
