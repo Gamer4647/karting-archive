@@ -1,0 +1,38 @@
+Beta Participation Agreement (BPA) | Editor's Draft from Friday, March 22, 2019 11:22PM EST
+----------------------------------------------------------------------------------------------------------------------------
+“karting” is an emulated game server for ModNation®Racers and LittleBigPlanet™Karting on the PS3® (Sony PlayStation®3). All trademarks and copyright-written content found belong to their respective owners.
+
+WE HAVE ZERO AFFILIATION WITH Sony Corporation, Sony Interactive Entertainment Inc., “PSN” or any other brand or entity.
+----------------------------------------------------------------------------------------------------------------------------
+Eligibility
+
+You may use the server only if you are 13 years or older and are not barred from using the server under applicable law.
+
+Guidelines
+
+Our policy is to follow all applicable laws in The United States of America, the Constitution and the Supreme Court’s rulings on the First Amendment. We use the Court’s rulings, precedents and judgments as our guiding principles for protecting and empowering free speech and expression. You may not use our service for any unlawful purposes or illegal activities.
+
+International Law
+
+Non-U.S. residents and citizens must follow the laws of their domicile pertaining to online conduct, communication and content. We will respect the territorial sovereignty of nation-states and their applicable laws pertaining to online communications, though we urge governments of the world to consider Articles 18, 19 and 20 of the Universal Declaration of Human Rights (UDHR).
+
+International Transfer
+
+Your data may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you're located outside the United States and choose to provide your data to us, we may transfer your data to the United States and process it there.
+
+Private Information
+
+Users are prohibited from posting the confidential information of users. This includes but not limited to; home addresses, phone numbers, social security numbers, passport numbers, credit card information, banking information, without their written, expressed authorization and consent.
+
+Copyright
+
+We will respond to and act on notices of alleged copyright and/or trademark infringement.
+
+DMCA/Copyright Policy
+
+We respect copyright law and expects its users to do the same. It is our policy to terminate in appropriate circumstances users who repeatedly infringe or are believed to be repeatedly infringing the rights of copyright holders.
+
+----------------------------------------------------------------------------------------------------------------------------
+Software Licensing:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
