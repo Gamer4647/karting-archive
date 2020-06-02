@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+    <status><id>0</id><message>Successful completion</message></status>
+    <response>
+        <content_urls total="4" server_uuid="c139bd86-26a7-11e2-910b-02163e142639">
+            <content_url name="s3_bucket" formats="">http://localhost:10050/</content_url>
+            <content_url name="player_avatars" formats=".png">http://localhost:10050/uploads/</content_url>
+            <content_url name="announcements" formats="png">http://localhost:10050/uploads/</content_url>
+            <content_url name="player_creations" formats="data.bin, preview_image.png, data.jpg">http://localhost:10050/uploads/</content_url>
+        </content_urls>
+        <magic_moment scea="true" scee="true" sceasia="true" scej="true"/>
+    </response>
+</result>

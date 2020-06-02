@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><result><status><id>0</id><message>Successful completion</message></status><response><activities total="0" row_start="0" row_end="0" page="1" total_pages="0">
+    <activity type="system_activity">
+        <events>
+            <event topic="system_event" type="announcement" details="Congratulations on getting the keys to your very own Kart!    We certainly hope you'll enjoy your time cruising the streets of the Imagisphere - perhaps even leaning to the side like you're really from the Sack 'hood. Before you get too caught up in being cool, remember to check out the fruits of your fellow Creators' labor in Community, where you can take the wheel in some truly wild and imaginative events." creator_username="" creator_id="3390271" timestamp="2012-11-04T17:49:20+00:00" seconds_ago="173326102" tags="" subject="Welcome!" image_url="" image_md5=""/>
+        </events>
+    </activity>
+</activities>
+</response></result>

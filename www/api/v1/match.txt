@@ -1,0 +1,7 @@
+
+<result><status><id>-2</id><message>The requested resource was not found</message></status><response></response></result>
+<result><status><id>-502</id><message>Invalid title uuid</message></status><response></response></result>
+<result><status><id>-502</id><message>Client failed to pass a valid UUID to PlayerConnect</message></status><response></response></result>
+<result><status><id>-4</id><message>Client failed to send HMAC to server</message></status><response></response></result>
+<result><status><id>-4</id><message>The client sent the server a malformed request</message></status><response></response></result>
+GET /announcements.xml HTTP/1.0\r\n
