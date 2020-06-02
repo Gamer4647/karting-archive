@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource name="policy.accept">
+  <request method="POST" url="policies/:id/accept.xml">
+    <param name="id" type="integer" required="true" />
+    <param name="username" type="string" default="[session]" />
+  </request>
+</resource>

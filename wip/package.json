@@ -1,0 +1,33 @@
+{
+  "installConfig": {
+    "pnp": true
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@babel/core": ">=7.8.6",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@reduxjs/toolkit": "^1.2.5",
+    "chalk": "^3.0.0",
+    "consola": "^2.11.3",
+    "crypto": "^1.0.1",
+    "entities": "^2.0.0",
+    "flow-remove-types": ">=2.119.1",
+    "rollup": ">=1.32.0",
+    "rollup-plugin-babel": ">=4.3.3",
+    "rollup-pluginutils": ">=2.8.2",
+    "strip-bom": "^4.0.0",
+    "xml-js": "^1.6.11"
+  },
+  "resolutions": {
+    "rollup-pluginutils": ">=2.8.2"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.120.1",
+    "prettier": "^1.19.1"
+  },
+  "scripts": {
+	"prettier": "prettier --no-editorconfig --config .prettierrc --write ./src/**/*.js",
+	"lint": "yarn prettier && flow src",
+	"start": "rollup -c && node dist/index.js"
+  }
+}
