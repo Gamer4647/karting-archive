@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource name="preferences.update">
+  <request method="PATCH" url="api/v1/preferences.update.xml">
+    <param name="preference[domain]" type="string" required="false"/>
+    <param name="preference[language_code]" type="string" required="false" maxlength="5"
+      options="en-us,en-gb,es,da,de,fi,fr,it,ja,ko,nl,no,pl,pt,ru,sv,zh-cn,zh-tw"/>
+    <param name="preference[region_code]" type="string" required="false" options="scea,scee,sceasia,scej"/>
+    <param name="preference[timezone]" type="string" required="false"/>
+  </request>
+  <response name="response" type="anchor">
+    <element name="preferences" type="anchor">
+      <attribute name="domain" type="string"/>
+      <attribute name="ip_address" type="string"/>
+      <attribute name="language_code" type="string"/>
+      <attribute name="region_code" type="string"/>
+      <attribute name="timezone" type="string"/>
+    </element>
+  </response>
+</resource>
