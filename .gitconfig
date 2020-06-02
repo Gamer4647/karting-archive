@@ -1,0 +1,4 @@
+# Prevents the accidental comitting of CRFL lines on Windows.
+[core]
+  autocrlf = input
+  eol = lf

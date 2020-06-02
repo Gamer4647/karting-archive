@@ -1,0 +1,36 @@
+root = true
+
+[*]
+; EditorConfig
+charset = utf-8
+end_of_line = lf
+tab_width = 2
+indent_size = 2
+indent_style = space
+max_line_length = off
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+; CodePainter
+quote_type = double
+space_after_anonymous_functions = true
+space_after_control_statements = true
+spaces_around_operators = true
+spaces_in_brackets = false
+
+; Domain-Specific
+continuation_indent_size = 2
+indent_brace_style = K&R
+curly_bracket_next_line = false
+spaces_around_brackets = outside
+
+[*.php]
+tab_width = 4
+indent_size = 4
+
+; Domain-Specific
+continuation_indent_size = 4
+
+[{bower_components,node_modules,vendor}/**]
+; CodePainter
+codepaint = false

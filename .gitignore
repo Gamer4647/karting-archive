@@ -1,0 +1,46 @@
+# GitHub Desktop Git Folder
+.git/
+
+# JetBrains PHPStorm IDE Folder
+.idea/
+
+# Visual Studio Code IDE Folder
+.vscode/
+
+# NetBeans IDE Folder
+nbproject/
+
+# Avoid accidental comitting that were FTP'd
+#63A20DA6D1476E78702E0294441E0172.txt
+#www/.well-known/pki-validation/
+#www/src/policies/drafts/lbpk/eula-bpa.txt
+#www/src/policies/drafts/mdnr/eula-bpa.txt
+
+# Until we can figure out what to do with them
+www/rails/public/images/modnation/logo.png
+www/rails/public/images/playerconnect_logo.png
+www/rails/public/stylesheets/application.css
+www/rails/public/stylesheets/cache/admin.css
+www/rails/public/stylesheets/cache/modnation.css
+
+# Apache
+bin/
+conf/
+error/
+modules/
+logs/
+
+# npm
+node_modules
+
+# bower
+bower_components
+
+# composer
+vendor
+
+# pug.js cache
+.pug
+
+# bleh
+favicon.ico
