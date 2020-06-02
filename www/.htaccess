@@ -1,0 +1,35 @@
+Options -Indexes +FollowSymlinks
+<IfModule dir_module>
+  DirectoryCheckHandler Off
+  DirectoryIndex disabled
+  DirectoryIndexRedirect Off
+  DirectorySlash Off
+</ifModule>
+<IfModule rewrite_module>
+  RewriteEngine On
+  RewriteBase /
+  RewriteOptions AllowNoSlash
+  RewriteCond %{ENV:REDIRECT_STATUS} ^$
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}.php -f
+  RewriteRule ^(.+)$ $1.php  [QSA,L]
+  RewriteCond %{HTTP_USER_AGENT} ^(client/2.2.0/edge)$
+  RewriteRule ^resources/(.+)$ lbpk/$1 [QSA,L]
+  RewriteCond %{HTTP_USER_AGENT} ^(client/2.1.2/edge)$
+  RewriteRule ^resources/(.+)$ mdnr/$1 [QSA,L]
+</IfModule>
+<IfModule speling_module>
+  CheckSpelling Off
+  CheckCaseOnly Off
+</IfModule>
+<FilesMatch "\.(git|ht|(?:htaccess|md|rb|cgi|fcgi|yml)$)">
+  # Deny all public access to sensitive and Git filesâ€¦
+  <IfModule authz_core_module>
+    <If "-f %{REQUEST_FILENAME}">
+      Require all denied
+    </If>
+  </IfModule>
+</FilesMatch>
+
+SetOutputFilter DEFLATE
