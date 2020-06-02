@@ -1,0 +1,48 @@
+{
+  "data": {
+    "announcements": [
+      {
+        "_id": 2,
+        "@deleted": true,
+        "subject": "Server Decommission",
+        "text": {
+          "xx-xx": "As you have to be online to play this title, you will not be able to play the game at all after October 10, 2018."
+        },
+        "language_code": "@cookies.language_code",
+        "created_at": "2018-05-21T23:31:49+00:00",
+        "modified_at": "2018-05-21T23:31:49+00:00",
+        "deleted_since": "2019-03-22T00:46:42-03:00"
+      },
+      {
+        "_id": 1,
+        "@deleted": false,
+        "subject": "Server Maintenance",
+        "text": {
+          "xx-xx": "Thank you for continuing to play ModNation.",
+          "en-us": "Thank you for continuing to play ModNation.",
+          "en-gb": "Thank you for continuing to play ModNation.",
+          "es": "Gracias por seguir jugando ModNation.",
+          "da": "Tak fordi du fortsætter med at spille ModNation.",
+          "de": "Danke, dass Sie weiterhin ModNation spielen.",
+          "fi": "Kiitos, että jatkat ModNationia.",
+          "fr": "Merci de continuer à jouer à ModNation.",
+          "it": "Grazie per aver continuato a giocare a ModNation.",
+          "ja": "ModNationをプレイし続けてくれてありがとう。",
+          "ko": "ModNation을 계속해서 이용해 주셔서 감사합니다.",
+          "nl": "Bedankt dat je doorgaat met het spelen van ModNation.",
+          "no": "Takk for at du fortsetter å spille ModNation.",
+          "pl": "Dziękujemy za dalsze granie w ModNation.",
+          "pt": "Obrigado por continuar a jogar ModNation.",
+          "ru": "Спасибо, что продолжаете играть в ModNation.",
+          "sv": "Tack för att du fortsatte spela ModNation.",
+          "zh-cn": "感谢您继续玩ModNation。",
+          "zh-tw": "感謝您繼續玩ModNation。"
+        },
+        "language_code": "@cookies.language_code",
+        "created_at": "2010-05-14T00:52:24+00:00",
+        "modified_at": "2010-05-14T00:52:24+00:00",
+        "deleted_since": "1999-12-31T00:00:00+00:00"
+      }
+    ]
+  }
+}
