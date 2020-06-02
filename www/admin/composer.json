@@ -1,0 +1,7 @@
+{
+    "require": {
+        "filp/whoops": "^2.3",
+        "pug-php/pug": "^3.2",
+        "paragonie/csp-builder": "^2.3"
+    }
+}

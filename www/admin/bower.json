@@ -1,0 +1,28 @@
+{
+  "name": "administrator_tools",
+  "description": "Administrative tools.",
+  "moduleType": "globals",
+  "license": "GPL-3.0-or-later",
+  "ignore": [
+    "*",
+    "**/**"
+  ],
+  "keywords": [],
+  "authors": [
+    "Jon <32244961+llnwn@users.noreply.github.com>"
+  ],
+  "homepage": "https://github.com/llnwn/karting",
+  "forum": "https://github.com/llnwn/karting/issues",
+  "screenshots": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/llnwn/karting.git"
+  },
+  "dependencies": {
+    "angular": "1.7.8",
+    "bootstrap": "4.3.1",
+    "jquery": "3.3.1",
+    "angular-route": "1.7.8"
+  },
+  "private": true
+}
