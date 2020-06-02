@@ -1,0 +1,10 @@
+{
+  "data": {
+    "stage_mode": "Development",
+    "stage_modes": [
+      "Development",
+      "ProductionQA",
+      "Production"
+    ]
+  }
+}

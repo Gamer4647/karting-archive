@@ -1,0 +1,15 @@
+{
+  "report-only": false,
+  "report-uri": null,
+  "default-src": [],
+  "object-src": [],
+  "img-src": {
+    "self": true
+  },
+  "script-src": {
+    "self": true
+  },
+  "style-src": {
+    "self": true
+  }
+}
